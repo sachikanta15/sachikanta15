@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sachikantaraul" target="blank"><img src="https://img.shields.io/twitter/follow/sachikantaraul?logo=twitter&style=for-the-badge" alt="sachikantaraul" /></a> </p>
 
-- 🔭 I’m currently working on [Expensetracker.money](Expensetracker.money)
+- 🔭 I’m currently working on [Expensetracker.money](https://www.expensetracker.money)
 
 - 📫 How to reach me **sachikanta9692@gmail.com**
 
